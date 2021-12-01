@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"/Users/armaan199/Documents/armaan/cpp/test.cpp","tests":[{"id":1619548271563,"input":"8","output":"abcabcab"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/armaan199/Documents/armaan/cpp/test.cpp","group":"local","local":true}
